@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SkiPatrol()
+comment1.params=firstName\ lastName\ iD\ age\ address
+comment1.target=void\ makePatientReport(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Enter\ patient\ information,\ ID\ must\ be\ 5\ digits.\r\n
+comment2.params=patientID\ injuryLocation\ injurySeverity\ injuryType
+comment2.target=void\ makeInjuriesReport(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.text=\r\n\ Enter\ injury\ information.\r\n\ Location\:\ Arms,\ Abdomen,\ Head,\ Legs\r\n\ Severity\:\ 0-10\ (10\ being\ most\ severe)\r\n\ Type\:\ Break,\ Sprain/Strain,\ Burn,\ Soft\ Tissue\ Slash,\ Soft\ Tissue\ Blunt\r\n
+numComments=3

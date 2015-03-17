@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ iD\ age\ address
+comment0.target=Patient(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Enter\ patient\ information,\ ID\ must\ be\ 5\ digits.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFirstName()
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=int\ getID()
+numComments=6

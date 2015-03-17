@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=patientID\ injuryLocation\ injurySeverity\ injuryType
+comment0.target=Injury(int,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Enter\ injury\ information.\r\n\ Location\:\ Arms,\ Abdomen,\ Head,\ Legs\r\n\ Severity\:\ 0-10\ (10\ being\ most\ severe)\r\n\ Type\:\ Break,\ Sprain/Strain,\ Burn,\ Soft\ Tissue\ Slash,\ Soft\ Tissue\ Blunt\r\n
+comment1.params=
+comment1.target=int\ getPatientID()
+comment2.params=
+comment2.target=java.lang.String\ getInjuryLocation()
+comment3.params=
+comment3.target=int\ getInjurySeverity()
+comment4.params=
+comment4.target=java.lang.String\ getInjuryType()
+numComments=5
